@@ -86,6 +86,9 @@ a{
     border-radius: 12px;
     box-shadow:rgba(0,0,0,0.1) ;
 }
+.signup_form{
+    display: none;
+}
 
 .form_close{
     position: absolute;
@@ -181,3 +184,18 @@ a{
     user-select: none;
     color: #0b0217;
 }
+
+.form_container .button{
+    background-color: #7d2ae8;
+    margin-top: 30px;
+    width: 100%;
+    padding: 12px 0;
+    border-radius: 10px;
+}
+
+.login_signup{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 15px;
+}
+
